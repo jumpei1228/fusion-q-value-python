@@ -1,5 +1,7 @@
 # 核融合のQ値をPythonで計算する｜「エネルギー収支」で実用性を測る
 
+[![run](https://github.com/jumpei1228/fusion-q-value-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/fusion-q-value-python/actions/workflows/run.yml)
+
 核融合が発電として成り立つかを測る指標「Q値」をPythonで計算。投入エネルギーと出力の比、科学的損益分岐点(Q=1)と点火(Q=∞)の違い、ITERが狙うQ≥10の意味を、手を動かして理解します。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
